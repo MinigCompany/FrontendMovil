@@ -18,5 +18,4 @@ steps:
 - script: |
     npm install
     npm run start
-    npx expo export --platform android
   displayName: 'npm install and build'
